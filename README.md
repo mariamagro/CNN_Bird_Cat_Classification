@@ -1,4 +1,4 @@
-# Neural Networks Project: Calibration of CNNs for Bird-Cat Classification
+# Neural Networks: VAE-Based Synthetic Data Generation and Analysis
 
 **Credit:**
 The implementation is based on tasks provided by Pablo M. Olmos.
@@ -33,8 +33,5 @@ The project employs the LeNet-5 architecture, characterized by:
 
 ## Files
 - `Report.pdf`: Comprehensive report detailing the project's methodology, experiments, and findings.
-- `Code.ipybn`: Jupyter notebook containing the code used for implementing and evaluating the models.
-
-## Usage
-1. **Run `Code.ipybn`**: Open the Jupyter notebook to see the experiments and obtain results.
-2. **Review `Report.pdf`**: For an in-depth understanding of the project's methods and outcomes.
+- `part1.ipynb`: Jupyter Notebook containing the implementation of synthetic data generation and VAE model definition.
+- `part2.ipynb`: Jupyter Notebook for training the VAE, generating samples, performing clustering, mode identification, and T-SNE visualization.
