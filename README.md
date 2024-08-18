@@ -1,17 +1,13 @@
 # Neural Networks Project: Calibration of CNNs for Bird-Cat Classification
 
-## Authors
-- Marina Gómez Rey - [GitHub Profile](https://github.com/MarinaGRey)
-- Ángela Durán Pinto 
-- María Ángeles Magro Garrote 
 **Credit:**
 The implementation is based on tasks provided by Pablo M. Olmos.
 
 **Completed by:**
-- **Marina Gómez Rey** (https://github.com/MarinaGRey)
+- **María Ángeles Magro Garrote** - [mariamagro](https://github.com/mariamagro)
+- **Marina Gómez Rey** - [MarinaGRey](https://github.com/MarinaGRey)
 - **Ángela Durán**
-- **María Ángeles Magro Garrote**
-
+  
 ## Abstract
 This project investigates the calibration of convolutional neural networks (CNNs) in a classification setting, focusing on distinguishing birds from cats in the CIFAR-10 dataset. The project includes:
 1. A review of neural network calibration techniques, based on the paper "On Calibration of Modern Neural Networks."
